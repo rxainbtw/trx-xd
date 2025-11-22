@@ -927,3 +927,4 @@ nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/artstation.com/4#inet#fw4#vpn_domains
 nftset=/itch.io/4#inet#fw4#vpn_domains
 nftset=/www.blenderkit.com/4#inet#fw4#vpn_domains
+nftset=/80.lv/4#inet#fw4#vpn_domains
